@@ -1,0 +1,28 @@
+MUMBAI INDIAN TEAM SQUAD FOR IPL 2018
+
+Sr. No.	Player Name	        Country	        Type	        Price Paid
+01.	Rohit Sharma (C)	India	        Batsman	        15,00,00,000
+02.	Hardik Pandya	        India	        All-Rounder	11,00,00,000
+03.	Jasprit Bumrah	        India	        Bowler	        7,00,00,000
+04.	Krunal Pandya	        India	        All-Rounder	8,80,00,000
+05.	Ishan Kishan	        India	        Wicket Keeper	6,20,00,000
+06.	Kieron Pollard	       	Westindies      All-Rounder	5,40,00,000
+07.	Pat Cummins	        Australia       Bowler	        5,40,00,000
+08.	Evin Lewis	        Westindies	Batsman	        3,80,00,000
+09.	Suryakumar Yadav	India	        Batsman	        3,20,00,000
+10.	Ben Cutting	        Australia	All-Rounder	2,20,00,000
+11.	Mustafizur Rahman	Bangladesh	Bowler	        2,20,00,000
+12.	Rahul Chahar	        India	        Bowler	        1,90,00,000
+13.	Pradeep Sangwan	        India	        Bowler	        1,50,00,000
+14.	Jason Behrendorff	Australia	Bowler	        1,50,00,000
+15.	Jean-Paul Duminy	South Africa	Batsman	        1,00,00,000
+16.	Saurabh Tiwary	        India	        Batsman	        80,00,000
+17.	Tajinder Dhillon	India	        All-Rounder	55,00,000
+18.	Akila Dhananjaya	Sri Lanka	All-Rounder	50,00,000
+19.	Nidheesh M D Dinesan	India	        Bowler	        20,00,000
+20.	Aditya Tare	        India	        Wicket Keeper	20,00,000
+21.	Siddhesh Dinesh Lad	India	        Batsman	        20,00,000
+22.	Mayank Markande	        India	        All-Rounder	20,00,000
+23.	Sharad Lumba	        India	        Batsman	        20,00,000
+24.	Anukul Roy	        India	        All-Rounder	20,00,000
+25.	Mohsin Khan	        India	        Bowler	        20,00,000

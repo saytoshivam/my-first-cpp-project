@@ -1,0 +1,24 @@
+KINGS XI PUNJAB TEAM 2018 SQUAD
+
+Sr. No.	Player Name	        Country	        Type	        Price Paid
+01.	Axar Patel (R)	        India	        All Rounder	6,7,00,000
+02.	KL Rahul	        India	        Batsman	        11,00,00,000
+03.	Ravichandran Ashwin(C)  India	        Bowler	        7,60,00,000
+04.	Andrew Tye	        Australia	Bowler	        7,20,00,000
+05.	Aaron Finch	        Australia	Batsman	        6,20,00,000
+06.	Marcus Stoinis	        Australia	All Rounder	6,20,00,000
+07.	Karun Nair	        India	        Batsman	        5,60,00,000
+08.	Mujeeb Zadran	        Afghanistan	Bowler	        4,00,00,000
+09.	Ankit Singh Rajpoot	India	        Bowler	        3,00,00,000
+10.	David Miller	        South Africa	Batsman	        3,00,00,000
+11.	Mohit Sharma	        India	        Bowler	        2,40,00,000
+12.	Barinder Singh Sran	India	        Bowler	        2,20,00,000
+13.	Yuvraj Singh 	        India	        All Rounder	2,00,00,000
+14.	Christopher Gayle	Jamaica	        Batsman	        2,00,00,000
+15.	Ben Dwarshuis	        Australia	Bowler	        1,40,00,000
+16.	Akshdeep Nath	        India	        Batsman	        1,00,00,000
+17.	Manoj Tiwary	        India	        Batsman	        1,00,00,000
+18.	Mayank Agarwal	        India	        Batsman	        1,00,00,000
+19.	Manzoor Dar	        India	        All Rounder	20,00,000
+20.	Pardeep Sahu	        India	        All Rounder	20,00,000
+21.	Mayank Dagar	        India	        All Rounder	20,00,000

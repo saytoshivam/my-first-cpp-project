@@ -1,0 +1,27 @@
+ROYAL CHALLENGERS BANGALORE TEAM 2018 SQUAD AND PLAYER DETAILS
+
+Sr. No.	Player Name	        Nationality	Type	        Price Paid
+01.	Virat Kohli (R)(c)	India	        Batsman	        17,00,00,000
+02.	AB de Villiers (R)	South Africa	Batsman	        11,00,00,000
+03.	Sarfaraz Khan (R)	India	        Batsman	        1,75,00,000
+04.	Chris Woakes	        England	        All Rounder	7,40,00,000
+05.	Yuzvendra Singh Chahal	India	        Bowler	        6,00,00,000
+06.	Umesh Yadav	        India	        Bowler	        4,20,00,000
+07.	Brendon McCullum	New Zealand	Batsman	        3,60,00,000
+08.	M.S. Washington Sundar	India	        All Rounder	3,20,00,000
+09.	Navdeep Saini	        India	        Bowler	        3,00,00,000
+10.	Quinton De Kock	        South Africa	Wicket Keeper	2,80,00,000
+11.	Mohammed Siraj	        India	        Bowler	        2,60,00,000
+12.	Nathan Coulter-Nile	New Zealand	Bowler	        2,20,00,000
+13.	Colin De Grandhomme	India	        All Rounder	2,20,00,000
+14.	M. Ashwin	        India	        Bowler	        2,20,00,000
+15.	Parthiv Patel	        India	        Wicket Keeper	1,70,00,000
+16.	Moeen Ali	        England	        All Rounder	1,70,00,000
+17.	Mandeep Singh	        India	        Batsman	        1,40,00,000
+18.	Manan Vohra	        India	        Batsman	        1,10,00,000
+19.	Pawan Negi	        India	        All Rounder	1,00,00,000
+20.	Tim Southee	        New Zealand	Bowler	        1,00,00,000
+21.	Kulwant Khejroliya	India	        Bowler	        85,00,000
+22.	Aniket Choudhary	India	        Bowler	        30,00,000
+23.	Pavan Deshpande	        India	        All Rounder	20,00,000
+24.	Anirudha Ashok Joshi	India	        All Rounder	20,00,000

@@ -1,0 +1,62 @@
+
+  Date	        Time      VIVO IPL 2018 Fixtures             Stadium & Venues
+5-April-2018	8:00pm           MI vs CSK     	  Wankhede Stadium, Mumbai, Maharashtra
+6-April-2018	8:00pm	         RR vs KKR     	  Sawai Man Singh Stadium, Jaipur, Rajasthan
+7-April-2018	8:00pm		 SH vs RCB        Rajiv Gandhi International Stadium, Hyderabad
+8-April-2018	4:00pm	         KXIPvs DD         Punjab Cricket Association Stadium, Mohali
+8-April-2018	8:00pm	         MI vs RR         Wankhede Stadium, Mumbai, Maharashtra
+9-April-2018	4:00pm	        KKR vs DD         Eden Garden Stadium Kolkata, West Bengal
+9-April-2018	8:00pm	         SH vs kXIP       Rajiv Gandhi International Stadium, Hyderabad
+10-April-2018	8:00pm	         RR vs RCB        Sawai Man Singh Stadium, Jaipur, Rajasthan
+11-April-2018	8:00pm	        KXIPvs KKR	      Punjab Cricket Association Stadium, Mohali
+12-April-2018	8:00pm	         MI vs DD	      Wankhede Stadium, Mumbai, Maharshtra
+13-April-2018	8:00pm	        KKR vs KXIP	      Eden Garden Stadium, Kolkata, West Bengal
+14-April-2018	4:00pm	         MI vs SH          Wankhede Stadium, Mumbai, Maharashtra
+14-April-2018	8:00pm	         RR vs CSK        Sawai Man Singh Stadium, Jaipur, Rajasthan
+15-April-2018	4:00pm	        KKR vs SH         Eden Garden Stadium, Kolkata, West Bengal
+15-April-2018	8:00pm	         DD vs KXIP       Feroz Shah Kotla Stadium, Delhi
+16-April-2018	8:00pm	         MI vs KKR        Wankhede Stadium, Mumbai, Maharashtra
+16-April-2018	8:00pm	        RCB vs CSK	      M.Chinnaswamy Stadium, Bengaluru
+17-April-2018	4:00pm	         DD vs KKR	      Feroz Shah Kotla Stadium, Delhi
+17-April-2018	8:00pm	         SH vs kXIP	      Rajiv Gandhi International Stadium, Hyderabad
+18-April-2018	8:00pm	         RR Vs RCB	     Sawai Man Singh Stadium, Jaipur, Rajasthan
+19-April-2018	8:00pm		 SH vs DD        Rajiv Gandhi International Stadium, Hyderabad
+20-April-2018	8:00pm	         MI vs KXIP     Punjab Cricket Association Stadium, 
+21-April-2018	8:00pm	        RR vs KKR      Eden Garden Stadium, Kolkata, West Bengal
+22-April-2018	4:00pm		SH VS CSK       M.A.Chidambaram Stadium, Chennai, Tamil Nadu
+22-April-2018	8:00pm		MI vs RCB       Wankhede Stadium, Mumbai, Maharashtra
+23-April-2018	4:00pm		RR vs KXIP      Sawai Man Singh Stadium, Jaipur, Rajasthan
+23-April-2018	8:00pm	        KKR vs RCB      Eden Garden Stadium, Kolkata, West Bengal
+24-April-2018	8:00pm	         MI vs KXIP     Wankhede Stadium, Mumbai, Maharashtra
+25-April-2018	8:00pm		 RCB vs SH       M.Chinnaswamy Stadium, Bengaluru
+26-April-2018	8:00pm	        CSK vs KKR      M.A.Chidambaram Stadium Chennai, Tamil Nadu
+27-April-2018	8:00pm	        RCB vs RR       M.Chinnaswamy Stadium, Bengaluru
+28-April-2018	4:00pm	        KKR vs DD       Eden Garden Stadium, Kolkata, West Bengal
+28-April-2018	8:00pm	        KXIPvs SH       Punjab Cricket Association Stadium, Mohali
+29-April-2018	4:00pm		CSK vs RCB       M.A.Chidambaram Stadium Chennai, Tamil Nadu
+29-April-2018	8:00pm	         RR vs MI	     Sawai Man Singh Stadium, Jaipur, Rajasthan
+30-April-2018	4:00pm	        KXIPvs DD    	 Punjab Cricket Association Stadium, Mohali
+30-April-2018	8:00pm	         SH vs KKR 	    Rajiv Gandhi International Stadium, Hyderabad
+ 01-May-2018	4:00pm	        CSK vs RR   	M.A.Chidambaram Stadium Chennai, Tamil Nadu
+ 01-May-2018	8:00pm	        KXIPvs RR	     Punjab Cricket Association Stadium, Mohali
+ 02-May-2018	8:00pm	         DD vs SH	    Feroz Shah Kotla Stadium, Delhi
+ 03-May-2018	8:00pm	        KKR vs CSK	     Eden Garden Stadium, Kolkata, West Bengal
+ 04-May-2018	8:00pm	         DD vs RR       Feroz Shah Kotla Stadium, Delhi
+ 05-May-2018	8:00pm	        RCB vs KXIP	    M.Chinnaswamy Stadium, Bengaluru, Karnataka
+ 06-May-2018	4:00pm	         SH vs CSK	    Rajiv Gandhi International Stadium, Hyderabad
+ 06-May-2018	8:00pm	         DD vs MI	    Feroz Shah Kotla Stadium, Delhi
+ 07-May-2018	4:00pm	        RCB vs KKR   	M.Chinnaswamy Stadium, Bengaluru, Karnataka
+ 07-May-2018	8:00pm	        KXIPvs RR	    Punjab Cricket Association Stadium, Mohali
+ 08-May-2018	8:00pm	         SH vs MI    	Rajiv Gandhi International Stadium, Hyderabad
+ 09-May-2018	8:00pm	        KXIPvs KKR	    Punjab Cricket Association Stadium, Mohali
+ 10-May-2018	8:00pm	         RR vs DD	    Sawai Man Singh Stadium, Jaipur, Rajasthan
+ 11-May-2018	8:00pm	         MI vs KXIP	    Wankhede Stadium, Mumbai, Maharashtra
+ 12-May-2018	8:00pm	         DD vs CSK      Feroz Shah Kotla Stadium, Delhi
+ 13-May-2018	4:00pm	         RR vs SH	    Sawai Man Singh Stadium, Jaipur, Rajasthan
+ 13-May-2018	8:00pm	        KKR vs MI   	Eden Garden Stadium, Kolkata, West Bengal
+ 14-May-2018	4:00pm	        CSK vs KXIP  	M.A.Chidambaram Stadium Chennai, Tamil Nadu
+ 14-May-2018	8:00pm	         DD vs RCB  	Feroz Shah Kotla Stadium, Delhi
+ 16-May-2018	8:00pm	  TBCVsTBC, Qualifier1	M.A.Chidambaram Stadium Chennai, Tamil Nadu
+ 17-May-2018	8:00pm	  TBCVsTBC, Eliminator	Eden Garden Stadium Kolkata, West Bengal
+ 19-May-2018	8:00pm	  TBCVsTBC, Qualifier 2	Wankhede Stadium, Mumbai, Maharashtra
+ 21-May-2018	8:00pm	    TBC Vs TBC, Final   M.Chinnaswamy Stadium, Bengaluru, Karnataka

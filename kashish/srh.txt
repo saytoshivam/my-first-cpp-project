@@ -1,0 +1,28 @@
+SUNRISERS HYDERABAD (SRH) IPL 2018 TEAM SQUAD
+
+Sr. No.	Player Name	        Nationality	Type	        Price Paid
+01.	David Warner (C)	Australia	Batsman	        12,00,00,000
+02.	Bhuvneshwar Kumar (R)	India	        Bowler	        8,50,00,000
+03.	Manish Pandey	        India	        Batsman	        11,00,00,000
+04.	Rashid Khan Arman	Afghanistan	Bowler	        9,00,00,000
+05.	Shikhar Dhawan	        India	        Batsman	        5,20,00,000
+06.	Wriddhiman Saha	        India	        Wicket Keeper	5,00,00,000
+07.	Siddarth Kaul	        India	        Bowler	        3,80,00,000
+08.	Deepak Hooda	        India	        All-Rounder	3,60,00,000
+09.	Syed Khaleel Ahmed	India	        Bowler	        3,00,00,000
+10.	Sandeep Sharma	        India	        Bowler	        3,00,00,000
+11.	Kane Williamson	        New Zealand	Batsman	        3,00,00,000
+12.	Carlos Brathwaite	Barbados	All-Rounder	2,00,00,000
+13.	Shakib Al Hasan	        Bangladesh	All-Rounder	2,00,00,000
+14.	Yusuf Pathan	        India	        All-Rounder	1,90,00,000
+15.	Shreevats Goswami	India	        Wicket Keeper	1,00,00,000
+16.	Mohammad Nabi	        Afghanistan	All-Rounder	1,00,00,000
+17.	Chris Jordan	        England	        All-Rounder	1,00,00,000
+18.	Basil Thampi	        India	        Bowler	        95,00,000
+19.	Billy Stanlake	        England	        Bowler	        50,00,000
+20.	T Natarajan	        India	        Bowler	        40,00,000
+21.	Sachin Baby	        India	        Batsman	        20,00,000
+22.	Bipul Sharma	        India	        All-Rounder	20,00,000
+23.	Syed Mehdi Hasan	India	        All-Rounder	20,00,000
+24.	Ricky Bhui	        India	        Batsman	        20,00,000
+25.	Tanmay Agarwal	        India	        Batsman	        20,00,000

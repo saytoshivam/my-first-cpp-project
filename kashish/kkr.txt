@@ -1,0 +1,22 @@
+KOLKATA KNIGHT RIDERS (KKR) TEAM IPL 2018 SQUAD
+
+Sr. No.	Player Name	        Nationality	Type	        Price Paid
+01.	Sunil Narine (R)        Westindies      Bowler	        8,50,00,000
+02.	Andre Russell (R)	Westindies	All-Rounder	7,00,00,000
+03.	Chris Lynn	        Australia	Batsman	        9,60,00,000
+04.	Mitchell Starc	        Australia	Bowler	        9,40,00,000
+05.	Dinesh Karthik(C)	India	        Wicket Keeper	7,40,00,000
+06.	Robin Uthappa	        India	        Batsman	        6,40,00,000
+07.	Kuldeep Singh Yadav	India	        Bowler	        5,80,00,000
+08.	Piyush Chawla	        India	        Bowler	        4,20,00,000
+09.	Nitish Rana	        India	        Batsman	        3,40,00,000
+10.	Kamlesh Nagarkoti	India	        All-Rounder	3,20,00,000
+11.	Shivam Mavi	        India	        Bowler	        3,00,00,000
+12.	Mitchell Johnson	Australia	Bowler	        2,00,00,000
+13.	Shubman Gill	        India	        Batsman	        1,80,00,000
+14.	Ranganath Vinay Kumar	India	        Bowler	        1,00,00,000
+15.	Rinku Singh	        India	        Batsman	        80,00,000
+16.	Cameron Delport	        South Africa	Batsman	        30,00,000
+17.	Javon Searles	        Barbados	All-Rounder	30,00,000
+18.	Apoorv Vijay Wankhade	India	        Batsman	        20,00,000
+19.	Ishank Jaggi	        India	        Batsman	        20,00,000

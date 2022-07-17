@@ -1,0 +1,26 @@
+RAJASTHAN ROYALS TEAM 2018 PLAYER DETAILS
+
+Sr. No.	Player Name	        Nationality	Type	        Price Paid
+01.	Steve Smith (R)	        Australia	Batsman	        12,00,00,000
+02.	Benjamin Stokes	        England	        All Rounder	12,50,00,000
+03.	Jaydev Unadkat	        India	        Bowler	        11,50,00,000
+04.	Sanju Samson	        India	        Wicket Keeper	8,00,00,000
+05.	Jofra Archer	        Barbados	All Rounder	7,20,00,000
+06.	Krishnappa Gowtham	India	        Bowler	        6,20,00,000
+07.	Jos Buttler	        England	        Wicket Keeper	4,40,00,000
+08.	Ajinkya Rahane   	India	        Batsman	        4,00,00,000
+09.	Darcy Short	        Australia	All Rounder	4,00,00,000
+10.	Rahul Tripathi	        India	        Batsman	        3,40,00,000
+11.	Dhawal Kulkarni	        India	        Bowler	        75,00,000
+12.	Zahir Khan Pakteen	Afghastian	Bowler	        60,00,000
+13.	Ben Laughlin	        Australia	Bowler	        50,00,000
+14.	Stuart Binny	        India	        All Rounder	50,00,000
+15.	Dushmantha Chameera	Srilanka	Bowler	        50,00,000
+16.	Anureet Singh	        India	        Bowler	        30,00,000
+17.	Aryaman Vikram Birla	India	        Batsman	        30,00,000
+18.	Midhun S	        India	        Bowler	        20,00,000
+19.	Shreyas Gopal	        India	        All Rounder	20,00,000
+20.	Prashant Chopra	        India	        Batsman	        20,00,000
+21.	Jatin Saxena	        India	        All Rounder	20,00,000
+22.	Ankit Sharma	        India	        All Rounder	20,00,000
+23.	Mahipal Lomror	        India	        All Rounder	20,00,000

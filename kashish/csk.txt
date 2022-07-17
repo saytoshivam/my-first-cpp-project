@@ -1,0 +1,28 @@
+CHENNAI SUPER KINGS 2018 IPL TEAM PLAYER DETAILS
+
+Sr. No.	Player Name	                Nationality	Type	        Price Paid
+01.	Mahendra Singh Dhoni (R) (C)	India	        Wicket Keeper	15,00,00,000
+02.	Suresh Raina (R)	        India	        Batsman	        11,00,00,000
+03.	Ravindra Jadeja (R)	        India	        All-Rounder	7,00,00,000
+04.	Kedar Jadhav	                India	        Batsman	        7,80,00,000
+05.	Dwayne Bravo	                Westindies	All-Rounder	6,40,00,000
+06.	Karn Sharma	                India	        All-Rounder	5,00,00,000
+07.	Shane Watson	                Australia	All-Rounder	4,00,00,000
+08.	Shardul Narendra Thakur	        India	        Bowler	        2,60,00,000
+09.	Ambati Rayudu	                India	        Wicket Keeper	2,20,00,000
+10.	Murali Vijay	                India	        Batsman	        2,00,00,000
+11.	Harbhajan Singh	                India	        Bowler	        2,00,00,000
+12.	Faf Du Plessis	                South Africa	Batsman	        1,60,00,000
+13.	Mark Wood	                England	        Bowler	        1,50,00,000
+14.	Sam Billings	                England	        Wicket Keeper	1,00,00,000
+15.	Imran Tahir	                South Africa	Bowler	        1,00,00,000
+16.	Deepak Chahar	                India	        Bowler	        80,00,000
+17.	Mitchell Santner	        New Zealand	Bowler	        50,00,000
+18.	Lungisani Ngidi	                South Africa	Bowler	        50,00,000
+19.	Asif K M	                India	        Bowler	        40,00,000
+20.	N Jagadeesan	                India	        Wicket Keeper	20,00,000
+21.	Kanishk Seth	                India	        All-Rounder	20,00,000
+22.	Monu Singh	                India	        Bowler	        20,00,000
+23.	Dhruv Shorey	                India	        Batsman	        20,00,000
+24.	Kshitiz Sharma	                India	        All-Rounder	20,00,000
+25.	Chaitanya Bishnoi	        India	        Bowler	        20,00,000
